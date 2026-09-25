@@ -8,7 +8,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
 using UnityEngine.UIElements;
 
-public class Player : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     private static Rigidbody _playerBody;
     private bool _canJump;
