@@ -1,7 +1,7 @@
 # Small code doc
 ## Objects
 ### Player
-Player class contains the behaviour of the Player object.
+PlayerMovement class contains the movement of the Player object.
 #### Movement
 With an 'event', we check if player collides with any other object, and if yes, we allow it to execute jump again.
 When mouse is turned (left to right), the whole player rotates.
