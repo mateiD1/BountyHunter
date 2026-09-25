@@ -1,4 +1,4 @@
-# BountyHunter
+# BountyRunner
 A low poly, open world, first person shooter game.
 
 ## GameEngine
